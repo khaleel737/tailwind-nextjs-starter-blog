@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Authntech Blog',
+  title: 'AuthnTech Blog',
   author: 'Khaleel Musleh',
   headerTitle: '',
   description: 'A blog created about latest technology',
@@ -8,7 +8,7 @@ const siteMetadata = {
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/khaleelavatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'khaleelmusleh@gmail.com',
   github: 'https://github.com/khaleel737',

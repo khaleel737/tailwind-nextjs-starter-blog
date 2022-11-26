@@ -1,6 +1,6 @@
 ---
 name: Khaleel Musleh
-avatar: /static/images/avatar.png
+avatar: /static/images/khaleelavatar.png
 occupation: Software Engineer
 company: Open for Hire
 email: khaleelmusleh@gmail.com
